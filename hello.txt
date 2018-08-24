@@ -1,2 +1,3 @@
 Hello, world!
 diff test.
+reset test.git
