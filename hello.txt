@@ -1,3 +1,4 @@
 Hello, world!
 diff test.
 conflict test
+test
